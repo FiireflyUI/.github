@@ -1,4 +1,4 @@
-![FiireflyUI_Cover](https://github.com/FiireflyUI/.github/blob/main/Firefly_landscape.jpg)
+![FiireflyUI_Cover](https://github.com/FiireflyUI/.github/blob/main/Artboard%201.png)
 FireflyUI
 ===========
 
