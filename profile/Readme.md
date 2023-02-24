@@ -1,8 +1,8 @@
+![FiireflyUI_Cover](https://github.com/FiireflyUI/.github/blob/main/Firefly_landscape.jpg)
 FireflyUI
 ===========
 
-Another Pixel Experience Based Custom ROM
-
+Another Cherry-pick Custom ROM based on Pixel Experience.
 
 ### Credits
 
