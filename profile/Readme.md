@@ -1,4 +1,4 @@
-![FiireflyUI_Cover](https://github.com/FiireflyUI/.github/blob/main/Artboard%201.png)
+![FiireflyUI_Cover](https://github.com/FiireflyUI/.github/blob/main/Artboard%201%402x.png)
 FireflyUI
 ===========
 
